@@ -25,4 +25,5 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/112692170/219879515-a9587596-a17d-4eea-a733-bae2f7eb4649.png)
 
 Результат роботи програми
+
 ![Screenshot_3](https://user-images.githubusercontent.com/112692170/219879516-193dbfdb-d0ac-4e9b-9074-4b5e1500403b.png)
